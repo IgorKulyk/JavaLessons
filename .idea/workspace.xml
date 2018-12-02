@@ -5,96 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="129989a9-124c-409b-85a4-9bb48ea25945" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task20and21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task2and3and13and14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task7and15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Task9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/Task123/Task123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/Task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/Task5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/Task6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/Task7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/Task8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/Task9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/TaskStudent/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/Test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/TestMySQL/TestMySQL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson2/For.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson2/Lightning.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson2/MoonWeight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson2/Scan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson2/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson2/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson2/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson2/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson2/Task5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson2/Task6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson2/Task7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson2/Task8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson2/Task8Right.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson2/Task9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson2/While.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson3/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson3/Task10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson3/Task11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson3/Task12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson3/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson3/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson3/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson3/Task5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson3/Task6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson3/Task7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson3/Task8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson3/Task9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson4/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson4/Task17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson6/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson6/Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson6/Ssort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson6/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson7/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Lesson7/Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1/MultiplicationTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/Task8Right.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Task8Right.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson6/Ssort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6/Ssort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Less1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Less1/MultiplicationTable.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -112,7 +23,7 @@
     <session id="316068833">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="36" />
+          <entry key="project.closed" value="37" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="2" />
@@ -261,7 +172,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="17" />
     <option name="y" value="4" />
     <option name="width" value="1346" />
@@ -294,7 +205,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543757871848" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543759995946" />
     <property name="last_opened_file_path" value="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.11.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -458,7 +369,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18683812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
