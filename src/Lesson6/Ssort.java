@@ -18,9 +18,9 @@ public class Ssort {
                     mas[i] = mas[i+1];
                     mas[i+1] = buf;
                 }
-                System.out.println(Arrays.toString(mas));
+                //System.out.println(Arrays.toString(mas));
             }
         }
-        //System.out.println(Arrays.toString(mas));
+        System.out.println(Arrays.toString(mas));
     }
 }

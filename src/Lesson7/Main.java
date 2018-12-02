@@ -5,7 +5,7 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
-        int[][] data = new int[4][4];
+        int[][] data = new int[3][3];
         fillDataRandom(data);
         System.out.println("Исходный массив:");
         printArray(data);
@@ -37,7 +37,8 @@ public class Main {
         System.out.println("Исходный массив:");
         printArray(data);
         SimpleRow(data);
-       // SimpleCol(data);
+        SimpleCol(data);
+        MultiplyedArr(data, data);
 
 
     }
@@ -53,10 +54,10 @@ public class Main {
     }
 
     static void fillDataRandom(int[][] array) {
-        Random random = new Random();
+        Random random = new Random(5);
         for (int i = 0; i < array.length; i++) {
             for (int j = 0; j < array[i].length; j++) {
-                array[i][j] = random.nextInt(8) + 1;
+                array[i][j] = random.nextInt(100) + 1;
             }
         }
     }
@@ -212,7 +213,7 @@ public class Main {
         int count = 0;
         for (int i = 0; i < array.length; i++) {
             for (int j = 0; j < array[0].length; j++) {
-                if (findSimpleRow(array[i][j])) {
+                if (findSimple(array[i][j])) {
                     count++;
                     break;
                 }
@@ -221,10 +222,10 @@ public class Main {
         System.out.println("Количество строк с простыми числами = " + count);
     }
 
-    static boolean findSimpleRow(int sim) {
+    static boolean findSimple(int sim) {
         boolean f = true;
         for (int i = 2; i < sim; i++) {
-            if (sim % 1 == 0) {
+            if (sim % i == 0) {
                 f = false;
                 break;
             }
@@ -232,27 +233,37 @@ public class Main {
         return f;
     }
 
-//    static void SimpleCol(int[][] array) {
-//        int count = 0;
-//        for (int i = 0; i < array[0].length; i++) {
-//            for (int j = 0; j < array[0].length - 1; j++) {
-//                if (findSimpleCol(array[i][j])) {
-//                    count++;
-//                }
-//            }
-//
-//        }
-//        System.out.println("Количество столбцов с простыми числами = " + count);
-//    }
-//
-//    static boolean findSimpleCol(int sim) {
-//        boolean f = true;
-//        for (int i = 2; i < sim; i++) {
-//            if (sim % 1 == 0) {
-//                f = false;
-//                break;
-//            }
-//        }
-//        return f;
-//    }
+    // Переделать!!!
+    static void SimpleCol(int[][] array) {
+        int count = 0;
+        for (int i = 0; i < array.length; i++) {
+            for (int j = 0; j < array[0].length; j++) {
+                if (findSimple(array[i][j])) {
+                    count++;
+                    break;
+                }
+            }
+        }
+        System.out.println("Количество столбцов с простыми числами = " + count);
+    }
+
+    static int[][] MultiplyedArr(int[][] array1, int[][] array2) {
+        int[][] NewArr = new int[array1.length][array2[0].length];
+        if (array1[0].length == array2.length)
+            for (int i = 0; i < array1[0].length; i++) {
+                for (int j = 0; j < array2.length; j++) {
+                    int tmp = 0;
+                    for (int k = 0; k < array2.length; k++) {
+                        tmp += array1[i][k] * array2[k][j];
+                    }
+                    NewArr[i][j] = tmp;
+                }
+            }
+        else
+            System.out.println("Матрицы нельзя умножить");
+        return NewArr;
+    }
 }
+
+
+
